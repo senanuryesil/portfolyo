@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(29, 28, 28);
+}
+h2 { 
+   padding: 50px;
+    color: rgb(225, 225, 238);
+    font-size: 34px;
+    
+}
+h3{
+    font-size: 23px;
+    color: rgb(225, 225, 238);
+    margin-bottom: 55px;
+    width: 300px;
+    padding: 60px;
+}
+
+img {
+   height: 450px;
+   padding: 35px;
+   border: 4px solid black;
+
+}
